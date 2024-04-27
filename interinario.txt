@@ -1,3 +1,4 @@
 interinario 
 1 clase 1 jugar
 2 clase 2 practicar
+3 clase3 examen
